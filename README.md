@@ -14,7 +14,7 @@ To keep track of your schedule during a typical 9-5 work day
 Henry Parrish
 
 ## Visual
-![ScreenShot](CodeQuizSS1.PNG)
+![ScreenShot](WorkDayImg.PNG)
 
 
 
