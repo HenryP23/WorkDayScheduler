@@ -3,7 +3,7 @@
 - [Description](#Description)
 - [Usage](#Usage)
 - [Authors](#Authors)
-- [Deployed App](#DA)
+- [Deployed App](#DeployedApp)
 - [Visual](#Visual1)
 
 ## Description
@@ -14,7 +14,7 @@ To keep track of your schedule during a typical 9-5 work day
 ## Authors
 Henry Parrish
 
-## Deployed App
+## DeployedApp
 [Application Link](https://henryp23.github.io/WorkDayScheduler/)
 
 ## Visual
